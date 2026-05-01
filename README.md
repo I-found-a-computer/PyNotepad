@@ -1,5 +1,5 @@
 # PyNotepad
-A text editor written in Python (tkinter)
+Text editor written in Python (tkinter)
 <img width="881" height="656" alt="pynotepad" src="https://github.com/user-attachments/assets/8f276c94-3441-4bb8-81a6-e4dec65d7acb" />
 The PyNotepad text editor is written in Python
 and inspired by Florian Balmer's Notepad2 program.<br>
